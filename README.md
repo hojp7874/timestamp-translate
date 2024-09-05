@@ -1,10 +1,10 @@
 # timestamp-translate
 
-> Timestamp to Locale Datetime Converter
+> Unix timestamp to locale datetime converter
 > 
 > **`1725195347`** to **`2024. 9. 1. 오후 9:55:47`**
 >
-> **Google extension under review for approval*
+> https://chromewebstore.google.com/detail/timestamp-translate/cedgmddjhflbfijbcenbeabopfnklobf
 
 |off|on|
 |------|------|
